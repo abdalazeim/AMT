@@ -7,7 +7,7 @@
 
 - **ScrennShot**:
 
-     ![ScrennShot](https://github.com/abdalazeim/AMT/blob/master/7.PNG)
+     ![ScrennShot](https://github.com/abdalazeim/AMT/blob/master/7.png)
      
 
 
